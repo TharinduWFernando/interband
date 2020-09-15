@@ -1,0 +1,2 @@
+# interband
+Example Mathematica and MATLAB code for our paper on a novel gauge-invariant interband index T for 2D quantum systems [link here]. The files calculate the t-dependent, k-dependent and chiral forms of the interband index. We use analytic eigenstates (with explicit gauge choices) for the chiral fermion model in the Mathematica file, and numerical eigenstates (some arbitrary gauge choice) in the MATLAB file.
